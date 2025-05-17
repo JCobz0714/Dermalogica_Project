@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HqGP-RXrt06MFYRIODjm2A" Reference="Mqn0S7oWmUO8bf7URRTkRw/rUBl9LouOkmH5aPI4W9WWA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dermalogica.com/products/daily-superfoliant" CVScreenId="e00c11c4-25fd-450f-a60f-a352da1629f1" DesignTimeRectangle="1261, 556, 96, 36" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="[string.Format(&quot;&lt;webctrl aaname='                                 {0} oz                                ' tag='LABEL' /&gt;&quot;, ExactOunces)]" Guid="eeb96661-fea2-4246-bb77-a348c6e51b10" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Daily Superfoliant Exfoliator Resurfaces &amp;amp; Detoxes | Dermalogica®' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e5c506a1711ff48a7e4c0b0deafc54a0.png" xmlns="">0GU2D-VT3N0aRpYaxVMfzmg</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="ExactOunces" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

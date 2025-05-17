@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="eQ6-1sCUCU6aYHfUfrFunw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="iTWlXS8aF0ecLwOrfWO_5g" Reference="Mqn0S7oWmUO8bf7URRTkRw/74slONm1D02TfehSTjrHNw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dermalogica.com/products/active-moist" CVScreenId="2508ff03-e830-4600-af24-a7606bf7c5fa" DesignTimeRectangle="1475, 415, 525, 42" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H1' aaname='*' /&gt;" Guid="0ac522a9-44a0-4cd8-80f6-6fc44648e0f1" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Active Moist Lightweight Face Moisturizer for Oily Skin | Dermalogica®' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="febc77fc89fd2a59bf8e20192df8e99a.png" xmlns="">0YJbaFVV90kKxbF-799VOfA</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dermalogica.com/products/precleanse-balm" CVScreenId="76e5f5fc-8646-489d-8c26-0f7f153761a6" DesignTimeRectangle="1265, 571, 291, 16" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H4' visibleinnertext='MAY WE SUGGEST' innertext='May We Suggest' aaname='May We Suggest' /&gt;" Guid="3c26f76e-d9bc-4d96-b1b6-24bd0ee825fd" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='PreCleanse Balm, Oil Cleanser, Make-up Removing Balm | Dermalogica®' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="565d694ec62ee75d737d56a853ae4913.png" xmlns="">0UpcM4UfRbUugiOiiwQiYdg</imageRef>
     </TargetAnchorable>
-    <x:String x:Key="ActivityType">CheckState</x:String>
+    <x:String x:Key="ActivityType">None</x:String>
   </ObjectRepositoryTargetData.Data>
 </ObjectRepositoryTargetData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8LrGncLdRUivUJ7RxCbltQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dermalogica.com/products/active-moist" CVScreenId="b4c85a52-c29f-4989-beb0-b323ca36a37c" CvElementArea="1259, 654, 100, 39" CvTextArea="1288, 666, 41, 13" CvTextArgument="3.4 oz" CvType="Button" DesignTimeRectangle="1261, 656, 96, 36" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl aaname='                                 {0} oz                                ' tag='LABEL' type='' class='' check:innerText='3.4 oz' /&gt;&quot;, Measure)]" Guid="280f7130-9d42-452f-a953-1cbb6216ab0e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Active Moist Lightweight Face Moisturizer for Oily Skin | Dermalogica®' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="36eb769f85d081850512cab26da64d36.png" xmlns="">06Hn9YMmUSkmdRN0_m5ChWQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1" />
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

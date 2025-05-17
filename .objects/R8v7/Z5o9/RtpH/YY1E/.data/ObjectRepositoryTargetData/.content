@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_ee70zbYiEmZS1SD0TZJmg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dermalogica.com/products/active-moist" CVScreenId="11adf0ca-327a-418a-a7f5-8a26591a5c16" DesignTimeRectangle="1475, 552, 43, 28" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl id='price-item' tag='H3' /&gt;" Guid="2bb16ac5-b2f8-48fa-b93a-f7ce30d931e1" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Active Moist Lightweight Face Moisturizer for Oily Skin | Dermalogica®' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="11adf0ca-327a-418a-a7f5-8a26591a5c16" CvTextArea="1474, 531, 43, 11" CvTextArgument="PRICE:" CvType="Text" DesignTimeRectangle="1475, 530, 43, 14" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Price:' tag='SPAN' type='' class='' check:innerText='PRICE:' /&gt;" Guid="d2b7293c-33e5-4d91-80fb-13733611ef28" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4dc031fcda6bbc9874835c579c0e42ef.png" xmlns="">0JHu88kGjzEerUK8W5HoqwA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

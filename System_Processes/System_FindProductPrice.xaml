@@ -117,7 +117,7 @@
       <AssemblyReference>System.Linq.Queryable</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="System_FindProductPrice" sap:VirtualizedContainerService.HintSize="1666,1823" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="System_FindProductPrice" sap:VirtualizedContainerService.HintSize="1666,1825" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="Item" />
       <Variable x:TypeArguments="x:Double" Name="Ounces" />
@@ -158,21 +158,21 @@
         </scg:List>
       </ui:MultipleAssign.AssignOperations>
     </ui:MultipleAssign>
-    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Edge New tab" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="1094,1590" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" OpenMode="IfNotOpen" ScopeGuid="c542d09a-db4d-4eeb-804f-da3f9e78a203" Version="V2">
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Edge Tab - Opens Dermalogica USA" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="1094,1592" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" OpenMode="IfNotOpen" ScopeGuid="c542d09a-db4d-4eeb-804f-da3f9e78a203" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="1060,1350" sap2010:WorkflowViewState.IdRef="Sequence_2">
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="1060,1352" sap2010:WorkflowViewState.IdRef="Sequence_2">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <uix:NCheckState DisplayName="Check App State 'active moist moisturizer'" sap:VirtualizedContainerService.HintSize="1026,1288" sap2010:WorkflowViewState.IdRef="NCheckState_1" Version="V4">
+            <uix:NCheckState DisplayName="Check App State 'active moist moisturizer'" sap:VirtualizedContainerService.HintSize="1026,1290" sap2010:WorkflowViewState.IdRef="NCheckState_1" ScopeIdentifier="c542d09a-db4d-4eeb-804f-da3f9e78a203" Version="V4">
               <uix:NCheckState.IfExists>
-                <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="468,342" sap2010:WorkflowViewState.IdRef="Sequence_3">
+                <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="468,344" sap2010:WorkflowViewState.IdRef="Sequence_3">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -261,7 +261,7 @@
                     <uix:NGetText.Target>
                       <uix:TargetAnchorable BrowserURL="dermalogica.com/products/active-moist" CVScreenId="11adf0ca-327a-418a-a7f5-8a26591a5c16" ContentHash="_ee70zbYiEmZS1SD0TZJmg" DesignTimeRectangle="1475, 552, 43, 28" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl id='price-item' tag='H3' /&gt;" Guid="2bb16ac5-b2f8-48fa-b93a-f7ce30d931e1" ImageBase64="" InformativeScreenshot="4dc031fcda6bbc9874835c579c0e42ef.png" Reference="Mqn0S7oWmUO8bf7URRTkRw/YY1EcqBhMk2yrE-3V2QVnw" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Active Moist Lightweight Face Moisturizer for Oily Skin | Dermalogica®' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
                         <uix:TargetAnchorable.Anchors>
-                          <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
+                          <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
                             <uix:Target CVScreenId="11adf0ca-327a-418a-a7f5-8a26591a5c16" CvTextArea="1474, 531, 43, 11" CvTextArgument="PRICE:" CvType="Text" DesignTimeRectangle="1475, 530, 43, 14" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Price:' tag='SPAN' type='' class='' check:innerText='PRICE:' /&gt;" Guid="d2b7293c-33e5-4d91-80fb-13733611ef28" SearchSteps="FuzzySelector, CV" />
                           </scg:List>
                         </uix:TargetAnchorable.Anchors>

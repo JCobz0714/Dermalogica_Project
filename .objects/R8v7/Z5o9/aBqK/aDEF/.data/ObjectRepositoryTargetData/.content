@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zkcwXKg0pEmTgH3n26ysgg" Reference="Mqn0S7oWmUO8bf7URRTkRw/aDEFce1gkEChWfoDu40ADw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dermalogica.co.uk/products/active-moist-moisturiser" CVScreenId="ce77b1a0-1e26-41c4-baa4-09dd01c27d4c" DesignTimeRectangle="1071, 796, 92, 91" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="[string.Format(&quot;&lt;webctrl css-selector='body&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;section&amp;gt;section&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;variant-radios&amp;gt;fieldset&amp;gt;label' tag='LABEL' innertext='                               {0}ml                             ' /&gt;&quot;, Milliliters)]" Guid="3b5ee15f-8e6e-441c-a6a1-2ed05b3a00e4" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Active Moist, Oil-Free Moisturiser | Dermalogica® – Dermalogica UK' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="157f4a8167211574ee913bcedae9b660.png" xmlns="">0qINoguHwEEq2abK--dGdnQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="*" Name="Milliliters" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

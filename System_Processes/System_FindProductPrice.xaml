@@ -184,7 +184,7 @@
                       <OutArgument x:TypeArguments="x:String">[out_PriceFound]</OutArgument>
                     </Assign.To>
                     <Assign.Value>
-                      <InArgument x:TypeArguments="x:String">0</InArgument>
+                      <InArgument x:TypeArguments="x:String">$0</InArgument>
                     </Assign.Value>
                   </Assign>
                 </Sequence>

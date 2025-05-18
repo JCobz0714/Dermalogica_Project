@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="F17RwdIbdUSGm7vOtg-7Ug" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="xNfytPjnSkKttv4c2-ZqiQ" Reference="Mqn0S7oWmUO8bf7URRTkRw/ajnPcWxOd0eoAP7I5XQ-Qw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dermalogica.co.uk/products/active-moist-moisturiser" CVScreenId="de9d4271-6dc2-4629-8c7e-84fc26acae4a" DesignTimeRectangle="1071, 326, 590, 31" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H1' aaname='*' /&gt;" Guid="1b18ddff-f74c-4664-a818-f5094cf0c230" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Active Moist, Oil-Free Moisturiser | Dermalogica® – Dermalogica UK' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="fbc2d85152335d1a89893de792e4af92.png" xmlns="">0_jpIxNKHIE-rpWIDFN4IDw</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dermalogica.co.uk/products/precleanse-cleansing-balm" CVScreenId="66f6c794-c812-4f1d-81c6-d4e54258c0db" DesignTimeRectangle="1265, 473, 291, 15" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H4' aaname='We recommend' innertext='We recommend' visibleinnertext='WE RECOMMEND' /&gt;" Guid="9cc0e8f1-b0c6-43ae-a4c9-16d9e6879e24" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='PreCleanse Balm, Oil Cleanser, Make-up Removing Balm | Dermalogica® – Dermalogica UK' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1d4ced684632ec5397807b5b3904e052.png" xmlns="">0_ZotjFqBukOPdfcOB1xeow</imageRef>
     </TargetAnchorable>
-    <x:String x:Key="ActivityType">CheckState</x:String>
+    <x:String x:Key="ActivityType">None</x:String>
   </ObjectRepositoryTargetData.Data>
 </ObjectRepositoryTargetData>

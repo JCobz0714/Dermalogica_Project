@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3T3xPUZHdk-ZNBQ9TqczPA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dermalogica.co.uk/products/precleanse-cleansing-oil" DesignTimeRectangle="1071, 632, 401, 100" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl tag='FIELDSET' visibleinnertext='*' /&gt;" Guid="7b26226b-9be3-4b91-b579-c0268e378524" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Precleanse, Cleansing Oil, Face Oil, Melting Cleanser | Dermalogica® – Dermalogica UK' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a5fd346a22bf21589d608b5ba7a1e1f0.png" xmlns="">0trY_N-f2QUW-hRwpQkwmpw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

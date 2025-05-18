@@ -1,0 +1,13 @@
+﻿{
+  "Name": "size 150ml 295ml 30ml g…",
+  "Type": "Element",
+  "Id": "8S_cy5RMrEW4nWYHwX3MbA",
+  "Reference": "Mqn0S7oWmUO8bf7URRTkRw/8S_cy5RMrEW4nWYHwX3MbA",
+  "ParentRef": "Mqn0S7oWmUO8bf7URRTkRw/aBqKF6E8fkue46N5f4okCQ",
+  "Created": "2025-05-18T20:28:22.1678054Z",
+  "Updated": "2025-05-18T20:28:22.1678054Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GMN_hjqvRU6tZfiihmQ8Tg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dermalogica.fr/products/intensive-moisture-cleanser" DesignTimeRectangle="1066, 704, 370, 45" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl tag='FIELDSET' visibleinnertext='*' /&gt;" Guid="86de0d77-de19-4000-913f-b13796926b09" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Soin Hydratant Intensif - Intensive Moisture Cleanser - Dermalogica' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1909f9d05508ee408c9a12dbf8703fa8.png" xmlns="">0Wv2z-wAtAE-oBea5Dubpcw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

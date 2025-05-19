@@ -1,0 +1,14 @@
+﻿{
+  "Name": "54€",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "xrkLE8ZlLUe97cMOYCZxuA",
+  "Reference": "Mqn0S7oWmUO8bf7URRTkRw/xrkLE8ZlLUe97cMOYCZxuA",
+  "ParentRef": "Mqn0S7oWmUO8bf7URRTkRw/7AMKQLdTMEW3bcsiJXsflw",
+  "Created": "2025-05-19T01:24:03.4661666Z",
+  "Updated": "2025-05-19T01:24:03.4661666Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

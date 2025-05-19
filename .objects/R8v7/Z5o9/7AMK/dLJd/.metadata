@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Format 150 ml 295 ml",
+  "Type": "Element",
+  "Id": "dLJd_uEX_U6h1EkfG3F2VA",
+  "Reference": "Mqn0S7oWmUO8bf7URRTkRw/dLJd_uEX_U6h1EkfG3F2VA",
+  "ParentRef": "Mqn0S7oWmUO8bf7URRTkRw/7AMKQLdTMEW3bcsiJXsflw",
+  "Created": "2025-05-19T01:28:56.1384897Z",
+  "Updated": "2025-05-19T01:28:56.1384897Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

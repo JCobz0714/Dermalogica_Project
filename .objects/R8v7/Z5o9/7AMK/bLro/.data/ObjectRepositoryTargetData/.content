@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2WE4maMGyESnLf_PP97puA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dermalogica.fr/products/masque-hydratant-skin-hydrating-masque" CVScreenId="53229bc2-afe8-4c4b-bce4-b30e6ab55c35" CvTextArea="105, 372, 170, 79" CvTextArgument="404" CvType="Text" DesignTimeRectangle="105, 371, 169, 81" DesignTimeScaleFactor="1" ElementType="Text" Guid="c517c03f-2d5b-42fe-9b88-bfe5b5fc1566" ScopeSelectorArgument="&lt;html app='msedge.exe' title='404 Page introuvable' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="86b07a5e957345b7546f8e930c5ea0ed.png" xmlns="">0_vfud2vsZ0ePZTmsqJrnIQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xaGlCZzyEEWCXb708DZFtA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dermalogica.fr/products/intensive-moisture-cleanser" CVScreenId="5e640932-924f-4d94-9753-992ab4a08b16" DesignTimeRectangle="1066, 711, 90, 36" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="[string.Format(&quot;&lt;webctrl aaname='                             {0} *                           ' tag='LABEL' /&gt;&quot;, Milliliters)]" Guid="9eb6e646-6180-4e7b-aa3b-6e6e4d3a1f42" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Soin Hydratant Intensif - Intensive Moisture Cleanser - Dermalogica' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b5b4154a757205fca345b8641e142787.png" xmlns="">0e5PZfxCChUOQi_DSaAKE2Q</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="Milliliters" />
+    </scg:List>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

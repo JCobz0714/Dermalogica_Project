@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="A_XsHMboDUaWGYwPjAL2Mw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dermalogica.it/products/active-moist" DesignTimeRectangle="5, 739, 1912, 297" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl id='CybotCookiebotDialog' tag='DIV' /&gt;" Guid="0e1a24bb-733f-4e06-8aab-284f882efa3d" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Active Moist | Crema Idratante – Dermalogica Italia' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c3c6688eaa12e5f23d0e5802af712a08.png" xmlns="">0NE5P6m7NBUWPZAMkFV-4FA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

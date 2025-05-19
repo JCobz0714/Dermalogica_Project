@@ -1,0 +1,14 @@
+﻿{
+  "Name": "CIRCLE",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "-8EgjQK5QUqA8bAWnc9eaA",
+  "Reference": "Mqn0S7oWmUO8bf7URRTkRw/-8EgjQK5QUqA8bAWnc9eaA",
+  "ParentRef": "Mqn0S7oWmUO8bf7URRTkRw/whpIJfXcaUKtFqhgr_TvDg",
+  "Created": "2025-05-19T15:35:11.8764674Z",
+  "Updated": "2025-05-19T15:35:11.8764674Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

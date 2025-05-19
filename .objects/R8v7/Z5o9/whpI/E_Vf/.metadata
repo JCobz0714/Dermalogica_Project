@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Iscriviti subito alla n…",
+  "Type": "Element",
+  "TaxonomyType": "Container",
+  "Id": "E_VfTmHQhU-gfu9EUpB8kw",
+  "Reference": "Mqn0S7oWmUO8bf7URRTkRw/E_VfTmHQhU-gfu9EUpB8kw",
+  "ParentRef": "Mqn0S7oWmUO8bf7URRTkRw/whpIJfXcaUKtFqhgr_TvDg",
+  "Created": "2025-05-19T15:33:50.0227693Z",
+  "Updated": "2025-05-19T15:33:50.0227693Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "ConsensoDettagli[#IABV2…",
+  "Type": "Element",
+  "Id": "PjsxA3HCF0OXlRTPG6drzg",
+  "Reference": "Mqn0S7oWmUO8bf7URRTkRw/PjsxA3HCF0OXlRTPG6drzg",
+  "ParentRef": "Mqn0S7oWmUO8bf7URRTkRw/whpIJfXcaUKtFqhgr_TvDg",
+  "Created": "2025-05-19T15:32:50.1213718Z",
+  "Updated": "2025-05-19T15:32:50.1213718Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

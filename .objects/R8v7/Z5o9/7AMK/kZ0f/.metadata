@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Dermalogica uses Cookie…",
+  "Type": "Element",
+  "Id": "kZ0flikCVUuTyXdqzgFEeg",
+  "Reference": "Mqn0S7oWmUO8bf7URRTkRw/kZ0flikCVUuTyXdqzgFEeg",
+  "ParentRef": "Mqn0S7oWmUO8bf7URRTkRw/7AMKQLdTMEW3bcsiJXsflw",
+  "Created": "2025-05-19T15:27:50.1056326Z",
+  "Updated": "2025-05-19T15:27:50.1056326Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

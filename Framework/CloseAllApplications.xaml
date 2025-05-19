@@ -117,7 +117,7 @@
       <AssemblyReference>System.Linq.Async</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="Do the necessary procedures for ending the process (e.g., logout) and close the used applications." DisplayName="Close All Applications" sap:VirtualizedContainerService.HintSize="1666,1268" sap2010:WorkflowViewState.IdRef="Sequence_2">
+  <Sequence sap2010:Annotation.AnnotationText="Do the necessary procedures for ending the process (e.g., logout) and close the used applications." DisplayName="Close All Applications" sap:VirtualizedContainerService.HintSize="1949,1554" sap2010:WorkflowViewState.IdRef="Sequence_2">
     <Sequence.Variables>
       <Variable x:TypeArguments="sd:DataTable" Name="PricesUSA" />
       <Variable x:TypeArguments="sd:DataTable" Name="PricesUK" />
@@ -131,7 +131,7 @@
         <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:MultipleAssign DisplayName="Multiple Assign" sap:VirtualizedContainerService.HintSize="479,272" sap2010:WorkflowViewState.IdRef="MultipleAssign_1">
+    <ui:MultipleAssign sap2010:Annotation.AnnotationText="Store all the columns with their respective prices in every variable" DisplayName="Multiple Assign - Prices variables" sap:VirtualizedContainerService.HintSize="479,303" sap2010:WorkflowViewState.IdRef="MultipleAssign_1">
       <ui:MultipleAssign.AssignOperations>
         <scg:List x:TypeArguments="ui:AssignOperation" Capacity="8">
           <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_1">
@@ -176,12 +176,47 @@
           </ui:AssignOperation>
         </scg:List>
       </ui:MultipleAssign.AssignOperations>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
     </ui:MultipleAssign>
-    <ui:CopyFile ContinueOnError="{x:Null}" Destination="[NewFileReportPath]" DisplayName="Copy File" sap:VirtualizedContainerService.HintSize="479,186" sap2010:WorkflowViewState.IdRef="CopyFile_1" Path="[in_Config(&quot;MainReportFile&quot;).ToString]" />
-    <ui:WriteRange WorkbookPathResource="{x:Null}" AddHeaders="False" DataTable="[PricesUSA]" DisplayName="Write Range Workbook" sap:VirtualizedContainerService.HintSize="479,148" sap2010:WorkflowViewState.IdRef="WriteRange_1" SheetName="Pricing Report" StartingCell="F6" WorkbookPath="[NewFileReportPath]" />
-    <ui:WriteRange WorkbookPathResource="{x:Null}" AddHeaders="False" DataTable="[PricesUK]" DisplayName="Write Range Workbook" sap:VirtualizedContainerService.HintSize="479,148" sap2010:WorkflowViewState.IdRef="WriteRange_2" SheetName="Pricing Report" StartingCell="H6" WorkbookPath="[NewFileReportPath]" />
-    <ui:WriteRange WorkbookPathResource="{x:Null}" AddHeaders="False" DataTable="[PricesFR]" DisplayName="Write Range Workbook" sap:VirtualizedContainerService.HintSize="479,148" sap2010:WorkflowViewState.IdRef="WriteRange_3" SheetName="Pricing Report" StartingCell="J6" WorkbookPath="[NewFileReportPath]" />
-    <ui:WriteRange WorkbookPathResource="{x:Null}" AddHeaders="False" DataTable="[PricesIT]" DisplayName="Write Range Workbook" sap:VirtualizedContainerService.HintSize="479,148" sap2010:WorkflowViewState.IdRef="WriteRange_4" SheetName="Pricing Report" StartingCell="K6" WorkbookPath="[NewFileReportPath]" />
+    <ui:CopyFile ContinueOnError="{x:Null}" sap2010:Annotation.AnnotationText="Copy the report file to the &quot;Outputs&quot; file inside the project and reassign its name to &quot;NewFileReportPath&quot; variable which contains a formatted name which is: InternetPriceMonitoring_Report_(Date where process is executed).xlsx" Destination="[NewFileReportPath]" DisplayName="Copy File - Report file" sap:VirtualizedContainerService.HintSize="479,273" sap2010:WorkflowViewState.IdRef="CopyFile_1" Path="[in_Config(&quot;MainReportFile&quot;).ToString]">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </ui:CopyFile>
+    <ui:WriteRange WorkbookPathResource="{x:Null}" AddHeaders="False" sap2010:Annotation.AnnotationText="Write the prices in every cell of the USA prices column inside the Output file" DataTable="[PricesUSA]" DisplayName="Write Range Workbook - USA prices" sap:VirtualizedContainerService.HintSize="479,190" sap2010:WorkflowViewState.IdRef="WriteRange_1" SheetName="Pricing Report" StartingCell="F6" WorkbookPath="[NewFileReportPath]">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </ui:WriteRange>
+    <ui:WriteRange WorkbookPathResource="{x:Null}" AddHeaders="False" sap2010:Annotation.AnnotationText="Write the prices in every cell of the UK prices column inside the Output file" DataTable="[PricesUK]" DisplayName="Write Range Workbook - UK prices" sap:VirtualizedContainerService.HintSize="479,190" sap2010:WorkflowViewState.IdRef="WriteRange_2" SheetName="Pricing Report" StartingCell="H6" WorkbookPath="[NewFileReportPath]">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </ui:WriteRange>
+    <ui:WriteRange WorkbookPathResource="{x:Null}" AddHeaders="False" sap2010:Annotation.AnnotationText="Write the prices in every cell of the France prices column inside the Output file" DataTable="[PricesFR]" DisplayName="Write Range Workbook - France prices" sap:VirtualizedContainerService.HintSize="479,190" sap2010:WorkflowViewState.IdRef="WriteRange_3" SheetName="Pricing Report" StartingCell="J6" WorkbookPath="[NewFileReportPath]">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </ui:WriteRange>
+    <ui:WriteRange WorkbookPathResource="{x:Null}" AddHeaders="False" sap2010:Annotation.AnnotationText="Write the prices in every cell of the Italy prices column inside the Output file" DataTable="[PricesIT]" DisplayName="Write Range Workbook - Italy prices" sap:VirtualizedContainerService.HintSize="479,190" sap2010:WorkflowViewState.IdRef="WriteRange_4" SheetName="Pricing Report" StartingCell="K6" WorkbookPath="[NewFileReportPath]">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </ui:WriteRange>
     <ui:LogMessage DisplayName="Log message (close applications)" sap:VirtualizedContainerService.HintSize="479,164" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Trace" Message="[&quot;Closing applications...&quot;]" />
   </Sequence>
 </Activity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fTN6hUBf40ufHEUAixF3bw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dermalogica.it/products/daily-microfoliant" CVScreenId="932ec7f6-2e06-4361-8a10-68f0f01f0c68" DesignTimeRectangle="1071, 395, 590, 29" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='P' aaname='Questo prodotto fa parte di un&amp;apos;offerta e non è acquistabile separatamente' /&gt;" Guid="627c5d12-ff3e-45a6-9849-d2c8045ff7bc" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Sample Omaggio - Daily Microfoliant – Dermalogica Italia' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6cb0c194bc08ca83468a835331cebc85.png" xmlns="">0vOdRtSTp2EaNEPen4iIqaQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

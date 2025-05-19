@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Check App State - Check if the product is available",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Wczm6ubrKEe0UHrdg32-BQ",
+  "Reference": "Mqn0S7oWmUO8bf7URRTkRw/Wczm6ubrKEe0UHrdg32-BQ",
+  "ParentRef": "Mqn0S7oWmUO8bf7URRTkRw/whpIJfXcaUKtFqhgr_TvDg",
+  "Created": "2025-05-19T00:15:26.9604278Z",
+  "Updated": "2025-05-19T00:15:26.9604278Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

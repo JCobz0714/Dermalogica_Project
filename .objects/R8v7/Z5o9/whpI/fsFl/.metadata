@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Check App State - If measure does not appear in the UI",
+  "Type": "Element",
+  "Id": "fsFlBcb8t0aK_u_FMkqG4g",
+  "Reference": "Mqn0S7oWmUO8bf7URRTkRw/fsFlBcb8t0aK_u_FMkqG4g",
+  "ParentRef": "Mqn0S7oWmUO8bf7URRTkRw/whpIJfXcaUKtFqhgr_TvDg",
+  "Created": "2025-05-19T00:42:21.4025491Z",
+  "Updated": "2025-05-19T00:42:21.4025491Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

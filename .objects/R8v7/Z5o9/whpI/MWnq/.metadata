@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Check App State - if product is part of an offer",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "MWnqlBjTSU-Ik32YKXX3zg",
+  "Reference": "Mqn0S7oWmUO8bf7URRTkRw/MWnqlBjTSU-Ik32YKXX3zg",
+  "ParentRef": "Mqn0S7oWmUO8bf7URRTkRw/whpIJfXcaUKtFqhgr_TvDg",
+  "Created": "2025-05-19T00:23:47.0368088Z",
+  "Updated": "2025-05-19T00:23:47.0368088Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

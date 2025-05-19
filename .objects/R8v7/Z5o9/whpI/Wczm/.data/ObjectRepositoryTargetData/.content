@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="p4xQ2yNKs0aS3aZ6pqh3Yg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dermalogica.it" CVScreenId="aa831708-0938-4f0b-97ee-5ce7baf60a98" CvElementArea="91, 821, 357, 96" CvTextArea="123, 853, 294, 33" CvTextArgument="ACQUISTA ORA" CvType="Button" DesignTimeRectangle="92, 822, 357, 94" DesignTimeScaleFactor="1" ElementType="Button" Guid="84fe840a-a02e-44fb-b59d-97f79c70c282" ScopeSelectorArgument="&lt;html app='msedge.exe' title='I migliori prodotti per la tua skincare routine – Dermalogica Italia' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7fdeab238c1349db748a27710d628ce6.png" xmlns="">0FhikaCku-k2Jiw-5fxShrg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Fvicl4NrvkGcGZXJvK055A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dermalogica.it/products/precleanse-balm" CVScreenId="a3de4992-62fb-4d7e-b2aa-11a82e6db085" DesignTimeRectangle="261, 364, 1400, 52" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H1' aaname='     Pagina non trovata   ' /&gt;" Guid="f375b5fd-afe1-4a45-8c88-0b9c15667363" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Errore 404 Not Found – Dermalogica Italia' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e0c2fa981fbe1c8d7f03ecc48f1adcfe.png" xmlns="">0s9oZ4_2gOkWsk6UkM4OQuQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

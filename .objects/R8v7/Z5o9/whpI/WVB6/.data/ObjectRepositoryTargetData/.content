@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ag2gvrL69UmLHB95i7Ix5g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dermalogica.it/products/multivitamin-power-recovery-masque" CVScreenId="fde3d6d9-ac93-4fc6-8908-5164186678ef" DesignTimeRectangle="1071, 589, 85, 40" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="[string.Format(&quot;&lt;webctrl aaname='                             {0}*                           ' tag='LABEL' /&gt;&quot;, item)]" Guid="00059c0d-1905-4cf4-861a-3db5ad9d4362" ScopeSelectorArgument="&lt;html app='msedge.exe' title='MultiVitamin Power Recovery Masque | Maschera Rivitalizzante Nutriente – Dermalogica Italia' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1aa63e34a2ecf8f67eeca4ad26c3889a.png" xmlns="">0hcQnuF5r9E6_BGqRrfQSIQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="item" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
